@@ -1,14 +1,18 @@
 # swift.talon
 
 mode: user.swift
-and code.language: swift
+code.language: swift
+app.name: Xcode
+-
 
 tag(): user.code_operators
 tag(): user.code_comment
 
 # Statements and expressions
-"state import": "import "
-"state print": "print(\"\")"
+"hello swift": "afgnujdifndauovdqsnifqnmivodsvn"
+"statement swift check": "This is working from Talon "
+"state import": "import vdznjkvxznjvckx importimport"
+"state print": "print(\"\") dsadasdasfasdnnkj*"
 "state if": "if  {\n}\n"
 "state else if": "else if  {\n}\n"
 "state else": "else {\n}\n"
@@ -22,9 +26,10 @@ tag(): user.code_comment
 "state catch": "catch {\n}\n"
 "state throw": "throw \n"
 "state defer": "defer {\n}\n"
+"pizzle you": "svbnhjsdcvbhsdkvndsjvkds"
 
 # Types and type annotations
-"type void": "Void"
+"type void": "Void dsadsdsaVoid"
 "type bool": "Bool"
 "type int": "Int"
 "type float": "Float"
@@ -43,7 +48,7 @@ tag(): user.code_comment
 "state open": "open "
 
 # Keywords
-"key is": "is "
+"key is": "is afdsfds"
 "key as": "as "
 "key guard": "guard  else {\n    return\n}\n"
 "key extension": "extension  {\n}\n"
@@ -57,6 +62,8 @@ tag(): user.code_comment
 # Code comment
 "slashy comment": "// "
 "block comment": "/* \n*/\n"
+"multiline block comment": "/*** \n\n***/\n"
+
 
 # Swift language mode enabling and disabling
 "enable swift": "mode.enable('user.swift')"
