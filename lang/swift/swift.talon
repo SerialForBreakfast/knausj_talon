@@ -9,10 +9,9 @@ tag(): user.code_operators
 tag(): user.code_comment
 
 # Statements and expressions
-"hello swift": "afgnujdifndauovdqsnifqnmivodsvn"
-"statement swift check": "This is working from Talon "
-"state import": "import vdznjkvxznjvckx importimport"
-"state print": "print(\"\") dsadasdasfasdnnkj*"
+"hello swift": "Talon is working with swift lang"
+"state import": "import "
+"state print": "print(\"\")"
 "state if": "if  {\n}\n"
 "state else if": "else if  {\n}\n"
 "state else": "else {\n}\n"
@@ -64,6 +63,10 @@ tag(): user.code_comment
 "block comment": "/* \n*/\n"
 "multiline block comment": "/*** \n\n***/\n"
 
+# Xcode Quick Actions
+quick open file: key(shift-super-o)
+
+quick nav line: key(super-l)
 
 # Swift language mode enabling and disabling
 "enable swift": "mode.enable('user.swift')"
