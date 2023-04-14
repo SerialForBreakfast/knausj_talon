@@ -63,11 +63,6 @@ tag(): user.code_comment
 "block comment": "/* \n*/\n"
 "multiline block comment": "/*** \n\n***/\n"
 
-# Xcode Quick Actions
-quick open file: key(shift-super-o)
-
-quick nav line: key(super-l)
-
 # Swift language mode enabling and disabling
 "enable swift": "mode.enable('user.swift')"
 "disable swift": "mode.disable('user.swift')"
