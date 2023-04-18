@@ -6,6 +6,8 @@ tag(): user.tabs
 preferences: key(cmd-,)
 options: key(cmd-j)
 search: key(cmd-alt-f)
+close window: key(super-w)
+close all windows: key(super-alt-w)
 
 # bit of a mouthful, but it's probably not the kind of thing you'd be saying frequently
 sort by none: key(ctrl-alt-cmd-0)
@@ -26,3 +28,4 @@ trash it: key(cmd-backspace)
 
 hide [finder]: key(cmd-h)
 hide others: app.window_hide_others()
+file manager terminal here: user.file_manager.terminal.here()
