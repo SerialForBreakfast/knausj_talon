@@ -11,7 +11,13 @@ quick focus report:
     key(super-9 down:3)
 Quick focus search:
     key(super-4 down:3)
+Quick find:
+    key(super-f)
 
+Xcode create breakpoint:
+    key(super-\)
+Xcode toggle breakpoint:
+    key(super-alt-ctrl-b)
 Xcode toggle authors:
     key(super-shift-ctrl-a)
 Xcode build:
@@ -34,5 +40,3 @@ Xcode reset packages:
     key(super-shift-f1)
 Xcode device screenshot:
     key(super-shift-f4)
-Xcode clean:
-    key(super-shift-k)
