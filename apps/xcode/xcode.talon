@@ -8,12 +8,13 @@ quick goto line:
 quick focus editor:
     key(super-j enter)
 quick focus report:
-    key(super-9 down:3)
+    key(super-9 down:1)
 Quick focus search:
     key(super-4 down:3)
 Quick find:
     key(super-f)
 
+#Xcode Special Actions
 Xcode create breakpoint:
     key(super-\)
 Xcode toggle breakpoint:
@@ -26,8 +27,10 @@ Xcode run:
     key(super-r)
 Xcode clean:
     key(super-shift-k)
+Xcode stop:
+    key(super-.)
 
-#Xcode Application
+#Xcode Application Lifecycle
 Xcode quit:
     key(super-q)
 Xcode close:

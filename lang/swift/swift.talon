@@ -25,10 +25,9 @@ tag(): user.code_comment
 "state catch": "catch {\n}\n"
 "state throw": "throw \n"
 "state defer": "defer {\n}\n"
-"pizzle you": "svbnhjsdcvbhsdkvndsjvkds"
 
 # Types and type annotations
-"type void": "Void dsadsdsaVoid"
+"type void": "Void"
 "type bool": "Bool"
 "type int": "Int"
 "type float": "Float"
@@ -47,14 +46,14 @@ tag(): user.code_comment
 "state open": "open "
 
 # Keywords
-"key is": "is afdsfds"
+"key is": "is "
 "key as": "as "
 "key guard": "guard  else {\n    return\n}\n"
 "key extension": "extension  {\n}\n"
 "key protocol": "protocol  {\n}\n"
 "key enum": "enum  {\n}\n"
-"key let": "let  = \n"
-"key var": "var  = \n"
+"key let": "let = \n"
+"key var": "var = \n"
 "key in": "in "
 "key where": "where "
 
